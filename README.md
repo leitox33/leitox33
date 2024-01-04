@@ -8,5 +8,5 @@ En mi trayectoria como desarrollador, he cultivado un interés especial en la op
 
 Siempre estoy abierto a nuevos desafíos, y me encanta explorar las últimas tendencias en tecnología web.
 
-### Tecnologias y Frameworks: 
+### Tecnologias y Frameworks 🛠️: 
 **HTML5 + CSS** - **Bootstrap** - **Javascript y React** - **GIT**
