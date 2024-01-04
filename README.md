@@ -1,9 +1,12 @@
-## ¡Hello Everyone! 👋
+## ¡Hola a todos! 👋
 
-### About me 🚀
-I am a 21-year-old self-taught frontend developer passionate about creating visually stunning 
-and </br> scalable web experiences to bring attractive and functional interfaces to life.
+### Sobre mi 🚀
+Soy un autodidacta frontend developer de 21 años, apasionado por crear experiencias visuales impactantes </br> 
+y escalables en la web para dar vida a interfaces atractivas y funcionales.
 
-Throughout my journey as a developer, I have cultivated a special interest in performance optimization and usability, always seeking to enhance the user experience. My goal is to continue growing as a professional and eventually venture into backend development to become a full stack developer.
+En mi trayectoria como desarrollador, he cultivado un interés especial en la optimización del rendimiento y la usabilidad, buscando siempre mejorar la experiencia del usuario. Mi objetivo es seguir creciendo como profesional y eventualmente aventurarme en el desarrollo backend para convertirme en un desarrollador full stack.
 
-I am always open to new challenges and love exploring the latest trends in web technology.
+Siempre estoy abierto a nuevos desafíos, y me encanta explorar las últimas tendencias en tecnología web.
+
+### Tecnologias y Frameworks: 
+**HTML5 + CSS** - **Bootstrap** - **Javascript y React** - **GIT**
